@@ -14,3 +14,6 @@ In this project, the following pre-processing methods are implemented:
 - Outlier Removal
 - Feature Ranking & Selection
 
+#### Project Usage:
+```commandline
+Usage: python3 -m ml_project
