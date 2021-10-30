@@ -29,6 +29,6 @@ Lastly, an analysis of the results was provided on the following questions:
 
 (b) What is the running time in O(n) of each of the algorithms?
 
-## Project Usage:
+## Project Usage
 ```commandline
 Usage: python3 -m ml_project
