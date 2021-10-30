@@ -33,7 +33,7 @@ Lastly, an analysis of the results was provided on the following questions:
 ```commandline```
 Usage: python3 -m ml_project
 
-### Project Layout
+## Project Layout
 * MNIST-DataAnalysis-ML/: 
   `This is the parent or "root" directory containing all the files below.`
     * README.md
