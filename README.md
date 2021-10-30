@@ -32,3 +32,17 @@ Lastly, an analysis of the results was provided on the following questions:
 ## Project Usage
 ```commandline
 Usage: python3 -m ml_project
+
+### Project Layout
+* MNIST-DataAnalysis-ML/: 
+  `This is the parent or "root" directory containing all the files below.`
+    * README.md
+      `The guide you are currently reading.`
+    * ml_project/:
+      `This is our module that holds all our python scripts and our entry point to the program.`
+      * __init__.py 
+        `This file is used to expose what functions, variable, classes, etc are exposed when scripts import this module.`
+      * __main__.py 
+        `This file is the entrypoint to our program when ran as a package.`
+      * dataset.csv
+        `The csv file that contains our MNIST numerical dataset, and which our program will use.`
