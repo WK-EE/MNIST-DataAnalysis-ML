@@ -13,11 +13,11 @@ Note: This program is built using Python 3.7 or later. The IDE used while buildi
 3. Run the program as a module with real inputs: `python3 -m ml_project`
 
 ## Project Breakdown
-In this project, the following pre-processing methods are implemented:
+In this project, the following **Pre-Processing Methods** are implemented:
 - Outlier Removal
 - Feature Ranking & Selection
 
-ML Techniques Used:
+**ML Techniques** Used:
 - Bayes Classifier
 - SVM with Polynomial Kernel
 
