@@ -46,5 +46,9 @@ Usage: python3 -m ml_project
 
 ## Sample Results Overview
 
-#### Results of Feature Ranking
+#### Feature Ranking
 <img src="results_snapshots/Feature_Ranking_1.png" alt="Feature_Ranking" width="500"/>
+<img src="results_snapshots/Feature_Ranking_2.png" alt="Feature_Ranking" width="500"/>
+
+#### Top 10 Features and their Corresponding Scores
+<img src="results_snapshots/Top_10_Features.png" alt="Top_K_Features" width="500"/>
