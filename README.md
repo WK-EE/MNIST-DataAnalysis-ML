@@ -47,4 +47,4 @@ Usage: python3 -m ml_project
 ## Sample Results Overview
 
 #### Results of Feature Ranking
-
+![Feature_Ranking](results_snapshots/Feature_Ranking_1.png)
