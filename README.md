@@ -9,8 +9,8 @@ This project leverages various ML techniques to analyze the MNIST dataset and de
 Note: This program is built using Python 3.7 or later. The IDE used while building it is PyCharm CE.
 
 1. Download and install `Python version 3.7 or later` on your machine.
-2. Unzip the data file included in "Features42k.csv.zip"
-3. Keep data file in the same directory as "main.py"
+2. Unzip the data file included in *Features42k.csv.zip*
+3. Keep data file in the same directory as *main.py*
 4. Navigate to the [ml_project]() directory
 5. Run the program as a module with real inputs: `python3 -m ml_project`
 
