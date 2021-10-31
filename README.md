@@ -59,8 +59,9 @@ Usage: python3 -m ml_project
 #### Model Accuracy Values with Various Top K Features
 <img src="results_snapshots/Model_Accuracy_Values.png" alt="Model_Accuracy" width="500"/>
 
-#### Model Accuracy vs Fold Iteration
+#### Bayes and SVM Classifier Model Accuracy vs Fold Iteration
 <img src="results_snapshots/Model_Accuracy_vs_Fold_Iteration.png" alt="Model_Accuracy" width="500"/>
 
-
+#### Fold Number Model Accuracy Values
+<img src="results_snapshots/Fold_Number_Model_Accuracy.png" alt="Model_Accuracy" width="500"/>
 
