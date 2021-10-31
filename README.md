@@ -51,10 +51,10 @@ Optional Arguments: None
       `The guide you are currently reading.`
     * ml_project/:
       `This is our module that holds all our python scripts and our entry point to the program.`
-      * __init__.py 
-        `This file is used to expose what functions, variable, classes, etc are exposed when scripts import this module.`
-      * __main__.py 
-        `This file is the entrypoint to our program when ran as a package.`
+      * \_\_init\_\_.py 
+        `This file is used to expose what functions, variable, classes, etc are exposed when scripts import this module`
+      * \_\_main\_\_.py 
+        `This file is the entrypoint to our program when ran as a program.`
       * Features42k.csv.zip
         `The zip file that contains our MNIST numerical dataset, and which our program will use.`
         
