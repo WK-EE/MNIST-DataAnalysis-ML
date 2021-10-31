@@ -52,3 +52,6 @@ Usage: python3 -m ml_project
 
 #### Top 10 Features and their Corresponding Scores
 <img src="results_snapshots/Top_10_Features.png" alt="Top_K_Features" width="500"/>
+
+#### Model Accuracy vs Top K Features Used 
+<img src="results_snapshots/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Model_Comparison" width="500"/>
