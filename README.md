@@ -27,13 +27,13 @@ Also, the ML techniques shown above were then repeated while performing 5-Fold C
 <br>
 
 ## Project Usage
-```commandline```
+```commandline
 Usage: python3 -m ml_project
 
 Positional Arguments: None
 
 Optional Arguments: None
-
+```
 ## Project Layout
 * MNIST-DataAnalysis-ML/: 
   `This is the parent or "root" directory containing all the files below.`
