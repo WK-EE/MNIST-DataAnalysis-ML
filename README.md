@@ -43,3 +43,8 @@ Usage: python3 -m ml_project
         `This file is the entrypoint to our program when ran as a package.`
       * Features42k.csv.zip
         `The zip file that contains our MNIST numerical dataset, and which our program will use.`
+
+## Sample Results Overview
+
+#### Results of Feature Ranking
+
