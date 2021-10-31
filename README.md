@@ -55,3 +55,7 @@ Usage: python3 -m ml_project
 
 #### Model Accuracy vs Top K Features Used 
 <img src="results_snapshots/Model_Accuracy_vs_Top_K_Ranked_Features.png" alt="Model_Comparison" width="500"/>
+
+#### Model Accuracy Values
+<img src="results_snapshots/Model_Accuracy_Values.png" alt="Model_Accuracy" width="500"/>
+
