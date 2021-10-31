@@ -22,7 +22,7 @@ In this project, the following **Pre-Processing Methods** are implemented:
 - SVM with Polynomial Kernel
 
 Also, the ML techniques shown above were then repeated while performing 5-Fold Cross Validation on our data.
-<br> <br>
+<br>
 
 ## Project Usage
 ```commandline```
