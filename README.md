@@ -23,11 +23,6 @@ In this project, the following **Pre-Processing Methods** are implemented:
 
 Also, the ML techniques shown above were then repeated while performing 5-Fold Cross Validation on our data.
 <br> <br>
-Lastly, an analysis of the results was provided on the following questions:
-
-(a) Which of the two ML techniques shown above performed better? (This is based on the highest classification accuracy)
-
-(b) What is the running time in O(n) of each of the algorithms?
 
 ## Project Usage
 ```commandline```
